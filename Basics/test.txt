@@ -1,0 +1,2 @@
+warning: there is a warning
+error: there is an error
